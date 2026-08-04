@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="photo.png" alt="Raúl Muro Banner" width="100%">
+</p>
+
 # 👋 Hi, I'm Raúl Muro
 
 ### Software Engineer | Java Developer | DAM Graduate

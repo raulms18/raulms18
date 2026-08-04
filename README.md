@@ -4,7 +4,7 @@
 
 # 👋 Hey, I'm Raúl!
 
-### Software Engineer | Java Developer | DAM Graduate
+### Software Developer | Java Developer | DAM Graduate
 
 I'm a Software Engineering enthusiast from Madrid, Spain, passionate about building software, solving problems and continuously learning new technologies.
 
